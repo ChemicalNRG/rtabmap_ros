@@ -26,7 +26,7 @@ find_package(catkin REQUIRED COMPONENTS
 find_package(costmap_2d)
 find_package(octomap_msgs)
 find_package(apriltag_ros)
-find_package(rviz)
+#find_package(rviz)
 find_package(find_object_2d)
 
 ## System dependencies are found with CMake's conventions
